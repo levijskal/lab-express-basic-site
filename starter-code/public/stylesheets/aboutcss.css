@@ -1,0 +1,14 @@
+body {
+background-color: lightblue; 
+}
+img {
+  float: left;
+  margin-top: -1000px;
+}
+p {
+  margin-left: 1000px;
+  text-align: left;
+}
+h1 {
+  margin-left: 650px;
+}
